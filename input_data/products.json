@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "product_id": "P100",
+      "product_name": "Laptop",
+      "category": "Electronics",
+      "active": true
+    },
+    {
+      "product_id": "P101",
+      "product_name": "Mouse",
+      "category": "Accessories",
+      "active": true
+    },
+    {
+      "product_id": "P102",
+      "product_name": "Keyboard",
+      "category": "Accessories",
+      "active": true
+    },
+    {
+      "product_id": "P103",
+      "product_name": "Monitor",
+      "category": "Electronics",
+      "active": true
+    },
+    {
+      "product_id": "P104",
+      "product_name": "Desk",
+      "category": "Furniture",
+      "active": true
+    },
+    {
+      "product_id": "P105",
+      "product_name": "USB Cable",
+      "category": "Accessories",
+      "active": false
+    }
+  ]
+}

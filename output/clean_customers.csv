@@ -1,0 +1,9 @@
+customer_id,name,email,signup_date,country,customer_name
+C001,Asha Rao,True,2024-01-15,IN,asha rao
+C002,Ravi Kumar,True,2024-02-03,IN,ravi kumar
+C003,Meera Shah,True,2024-02-20,AE,meera shah
+C004,John Smith,True,2024-03-05,US,john smith
+C005,Li Wei,True,2024-03-08,SG,li wei
+C006,Nina Patel,True,2024-03-11,IN,nina patel
+C008,Priya Menon,True,2024-03-21,IN,priya menon
+C009,Sara Lee,True,2024-04-04,US,sara lee
