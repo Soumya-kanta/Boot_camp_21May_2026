@@ -17,6 +17,13 @@ Dockerfile
 README.md
 
 The main overview of the project is 
-It reads all the input files successfully. Then It will validate the records. After validateing it will transfer and aggregate the data. It will give the Revenue(quantity * unit_price), it joins all the valid orders with product name and catagory.
+It reads all the input files successfully. Then It will validate the records. 
+After validateing it will transfer and aggregate the data. It will give the Revenue(quantity * unit_price), it joins all the valid orders with product name and catagory.
 After that it will create one output file where where all the cleaned and rejected orders, customer and products file present.
 
+How to run it -
+Download & install all the dependencies which are mentioned in requirements.txt
+Download all the input files properly.
+Run the python file it will generate the output files.
+
+Thank you.
